@@ -1,0 +1,24 @@
+2 node(s) with 4 core(s) result:
+Execution Time: 811.9976797103882
+happiestHour: 2021-12-31T13
+happiestDay: 2021-12-31
+mostTweetHour 2022-05-21T12
+mostTweetDay: 2022-05-21
+
+
+1 node(s) with 8 core(s) result:
+Execution Time: 585.4742524623871
+happiestHour: 2021-12-31T13
+happiestDay: 2021-12-31
+mostTweetHour 2022-05-21T12
+mostTweetDay: 2022-05-21
+
+
+1 node(s) with 1 core(s) result:
+Execution Time: 2011.514904975891
+happiestHour: 2021-12-31T13
+happiestDay: 2021-12-31
+mostTweetHour 2022-05-21T12
+mostTweetDay: 2022-05-21
+
+
